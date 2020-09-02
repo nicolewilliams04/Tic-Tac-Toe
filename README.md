@@ -3,7 +3,7 @@
 This repository contains python based interactive Tic-Tac-Toe game.
 
 ## Running Tic-Tac-Toe:
-
+[![Run on Repl.it](https://repl.it/badge/github/aqeelanwar/Tic-Tac-Toe)](https://repl.it/github/aqeelanwar/Tic-Tac-Toe)
 ```
 git clone https://github.com/aqeelanwar/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
